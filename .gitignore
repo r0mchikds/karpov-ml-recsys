@@ -1,0 +1,40 @@
+# Чекпоинты Jupyter Notebook
+.ipynb_checkpoints/
+
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Кэш python и скомпилированные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Системные файлы (Windows / macOS)
+.DS_Store
+Thumbs.db
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Файл с переменными окружения
+.env
+
+# Датасеты и таблицы
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+
+# Веса моделей
+*.pth
+*.pt
+*.cbm
+
+# Конфигурации IDE
+.vscode/
+.idea/
